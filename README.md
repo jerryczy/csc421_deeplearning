@@ -1,2 +1,2 @@
 # csc421_deeplearning
-Course Assignment for CSC421 Winter 2019
+Course Assignments for CSC421 Winter 2019
